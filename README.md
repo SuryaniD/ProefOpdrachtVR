@@ -13,6 +13,8 @@ Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie ben
 ## Software Anaylse 
 Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
 
+Ik heb gekozen om deze proefopdracht in Unity te maken. Dit omdat ik hierbij de SteamVR plugin kan gebruiken om het haalbaarder te maken voor mezelf in de korte tijd die ik heb. Ook is dit samen met Unreal de meest gebruikte engine om VR-games/applicaties te maken.
+
 ## Leerdoelen 
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
 - Het Flood-Fill algoritme snappen en toepassen
