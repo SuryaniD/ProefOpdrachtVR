@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.magicbookinterface.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\ProefVR\\ProefOpdrachtVR\\MagicBookInterface\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "MagicBookInterface [Testing]"
+        }
+      }
+    }
+  ]
+}
