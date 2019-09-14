@@ -72,6 +72,14 @@
       "name": "/actions/mixedreality/in/ExternalCamera",
       "type": "pose",
       "requirement": "optional"
+    },
+    {
+      "name": "/actions/bookinterface/in/FlipForward",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/bookinterface/in/FlipBack",
+      "type": "boolean"
     }
   ],
   "action_sets": [
@@ -89,6 +97,14 @@
     },
     {
       "name": "/actions/mixedreality",
+      "usage": "single"
+    },
+    {
+      "name": "/actions/bookinterface",
+      "usage": "single"
+    },
+    {
+      "name": "/actions/NewSet",
       "usage": "single"
     }
   ],
