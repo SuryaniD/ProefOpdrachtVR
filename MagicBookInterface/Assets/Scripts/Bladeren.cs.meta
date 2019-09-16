@@ -3,7 +3,17 @@ guid: b6c9af730db81714e96de8bf138ad8a9
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - PageLeft: {instanceID: 0}
+  - PageRight: {instanceID: 0}
+  - PageFlip: {instanceID: 0}
+  - anim: {instanceID: 0}
+  - AirMaterial: {fileID: 2100000, guid: cbb275e1cf9530a4f8932282b7e9b9aa, type: 2}
+  - EarthMaterial: {fileID: 2100000, guid: 778829f33260f0b47bf631b26531a4d8, type: 2}
+  - FireMaterial: {fileID: 2100000, guid: edab0d8e99f797149aa64873d4c983fc, type: 2}
+  - WaterMaterial: {fileID: 2100000, guid: ad4a2a880678c0d44b0763c57b84cfa8, type: 2}
+  - ForceSphere: {fileID: 3414411772932220091, guid: cff53ba737c0e924bbef7f072235a186,
+      type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
