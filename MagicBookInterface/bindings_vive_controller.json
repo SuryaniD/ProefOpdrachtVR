@@ -34,6 +34,24 @@
                   "sub_mode" : "click"
                },
                "path" : "/user/hand/right/input/trackpad"
+            },
+            {
+               "inputs" : {
+                  "click" : {
+                     "output" : "/actions/bookinterface/in/shoot"
+                  }
+               },
+               "mode" : "button",
+               "path" : "/user/hand/left/input/trigger"
+            },
+            {
+               "inputs" : {
+                  "click" : {
+                     "output" : "/actions/bookinterface/in/shoot"
+                  }
+               },
+               "mode" : "button",
+               "path" : "/user/hand/right/input/trigger"
             }
          ]
       },
@@ -289,7 +307,7 @@
    "category" : "steamvr_input",
    "controller_type" : "vive_controller",
    "description" : "",
-   "name" : "MagicBookInterface",
+   "name" : "Mijn MagicBookInterface [Testing]-configuratie voor Vive Controller",
    "options" : {},
    "simulated_actions" : []
 }

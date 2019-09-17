@@ -80,6 +80,10 @@
     {
       "name": "/actions/bookinterface/in/FlipBack",
       "type": "boolean"
+    },
+    {
+      "name": "/actions/bookinterface/in/Shoot",
+      "type": "boolean"
     }
   ],
   "action_sets": [

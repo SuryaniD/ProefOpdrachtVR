@@ -32,5 +32,13 @@ namespace Valve.VR
                 return SteamVR_Actions.bookinterface_FlipBack;
             }
         }
+        
+        public virtual SteamVR_Action_Boolean Shoot
+        {
+            get
+            {
+                return SteamVR_Actions.bookinterface_Shoot;
+            }
+        }
     }
 }
