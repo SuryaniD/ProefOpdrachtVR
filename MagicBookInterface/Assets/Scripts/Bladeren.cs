@@ -139,7 +139,7 @@ public class Bladeren : MonoBehaviour {
 
 		PageFlip.SetActive(false);
 
-		ForceSphere.SetActive(false);
+		//ForceSphere.SetActive(false);
 
 		anim.Play("Flipped",-1,0f);
 
