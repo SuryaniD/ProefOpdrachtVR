@@ -24,8 +24,8 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 |Proefopdracht uitkiezen|Idee bedenken|Project Aangemaakt|Videos bekijken om te leren|
-|week 2 |Ziek skybox toegevoegd|Schietbare orbs gemaakt|
+|week 1 |Proefopdracht uitkiezen|Idee bedenken|Project Aangemaakt|Videos bekijken om te leren|Begin aan README|
+|week 2 |Ziek,skybox toegevoegd|Schietbare orbs gemaakt|
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
