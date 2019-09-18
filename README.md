@@ -21,7 +21,7 @@ Dit project is gemaakt in Unity met de SteamVR plugin. Hier is voor gekozen omda
 ## Planning 
 Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
 
-| | maandag | dinsdag | woensdag | donderdag | vrijdag |
+| | maandag | dinsdag | woensdag | donderdag | vrijdag | zaterdag |
 | --- | --- | --- | --- | --- | --- |
 |week 1 |Proefopdracht uitkiezen|Idee bedenken|Project Aangemaakt|Videos bekijken om te leren|Begin aan README|
 |week 2 |Ziek,skybox toegevoegd|Schietbare orbs gemaakt|
