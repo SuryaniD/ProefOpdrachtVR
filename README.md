@@ -1,17 +1,17 @@
 # VR User Interface Suryani Dommershuijzen
 
-De bedoeling van deze opdracht was om een VR User Interface te maken voor een inventory. Het leek mij leuk om interface voor een adventure game te maken met magie. De inventory zou ook tegelijk een wapen zijn een boek waaruit je spreuken zou gebruiken om de game te spelen. Voor deze opdracht heb ik het begin gemaakt, de gebruiker kan bladeren door het boek om een spreuk te selecteren. Het boek en de blader animatie zijn gemaakt in blender, deze zijn niet zelf gemaakt.
+De bedoeling van deze opdracht was om een VR User Interface te maken voor een inventory. Het leek mij leuk om interface voor een adventure game te maken met magie. De inventory zou ook tegelijk een wapen zijn: een boek waaruit je spreuken zou gebruiken om de game te spelen. Voor deze opdracht heb ik het begin gemaakt, de gebruiker kan bladeren door het boek om een spreuk te selecteren. Het boek en de blader animatie zijn gemaakt in Blender. Ze zijn niet door mij gemaakt maar door een kennis, dus wel uniek voor dit project.
 
 ## Features
 Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
 
-- [Awesome Algoritme](link)
-- [Specifieke Mechanic](link)
-- [Iets unieks waar je trots op bent binnen de project](link)
+- [ShootOrb](https://github.com/SuryaniD/ProefOpdrachtVR/blob/master/MagicBookInterface/Assets/Scripts/ShootOrb.cs)
+- [Script voor het bladeren van het boek](https://github.com/SuryaniD/ProefOpdrachtVR/blob/master/MagicBookInterface/Assets/Scripts/Bladeren.cs)
+
 
 ## Software Anaylse 
 
-Dit project is gemaakt in Unity met de SteamVR plugin. Hier is voor gekozen omdat dit tot nu toe de meest uitgebreide VR-plugin is. De SteamVR plugin is ook recent geupdate. Wat nieuw is aan deze update is dat je VR actions maakt hiermee kan je dus een action in de game aan meerdere soorten VR controller binden. De gebruiker kan zelf ook layouts maken voor spellen gemaakt met de SteamVR plugin. Om deze redenen ben ik gaan oefenen met de geupdate versie van SteamVR
+Dit project is gemaakt in Unity met de SteamVR plugin. Hier is voor gekozen omdat dit tot nu toe de meest uitgebreide VR-plugin is. De SteamVR plugin is ook recent geupdate. Wat nieuw is aan deze update is dat je VR actions maakt hiermee kan je dus een action in de game aan meerdere soorten VR controllers binden. De gebruiker kan zelf ook layouts maken voor spellen gemaakt met de SteamVR plugin. Om deze redenen ben ik gaan oefenen met de geupdate versie van SteamVR.
 
 ## Leerdoelen 
 
