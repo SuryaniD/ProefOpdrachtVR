@@ -14,8 +14,11 @@ Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie ben
 Dit project is gemaakt in Unity met de SteamVR plugin. Hier is voor gekozen omdat dit tot nu toe de meest uitgebreide VR-plugin is. De SteamVR plugin is ook recent geupdate. Wat nieuw is aan deze update is dat je VR actions maakt hiermee kan je dus een action in de game aan meerdere soorten VR controller binden. De gebruiker kan zelf ook layouts maken voor spellen gemaakt met de SteamVR plugin. Om deze redenen ben ik gaan oefenen met de geupdate versie van SteamVR
 
 ## Leerdoelen 
+
 -Een innovatieve VR user interface bedenken
+
 -Leren werken met met de geupdate SteamVR plugin
+
 -Oefenen met het importeren van blender modellen
 
 ## Planning 
