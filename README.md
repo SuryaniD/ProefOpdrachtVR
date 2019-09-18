@@ -23,12 +23,12 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 |Proefopdracht uitkiezen 
+|week 1 |Proefopdracht uitkiezen|Idee bedenken|Project Aangemaakt| 
 |week 2 |
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
 - [SteamVR Unity Plugin - SteamVR Input - Planting Tutorial](https://www.youtube.com/watch?v=qo-9CmcKWlY)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
+- [SteamVR input Valvesoftware](https://valvesoftware.github.io/steamvr_unity_plugin/articles/SteamVR-Input.html)
+- [Guide to SteamVR input 2.0](https://medium.com/@sarthakghosh/a-complete-guide-to-the-steamvr-2-0-input-system-in-unity-380e3b1b3311)
