@@ -22,8 +22,8 @@ Ik heb gekozen om deze proefopdracht in Unity te maken. Dit omdat ik hierbij de 
 Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
-| Proefopdracht uitkiezen  | --- | --- | --- | --- | --- |
-|week 1 |
+| --- | --- | --- | --- | --- | --- |
+|week 1 |Proefopdracht uitkiezen 
 |week 2 |
 
 ## Bronnen
